@@ -1,0 +1,12 @@
+Diapole:
+An electric dipole is defined as a couple of opposite charges “q” and “–q” separated by a distance “d”. By default, the direction of electric dipoles in space is always from negative charge “-q” to positive charge “q”. The midpoint “q” and “–q” is called the centre of the dipole.
+
+Electric Flux:
+the number of electric lines of force (or electric field lines) that intersect a given area.
+
+Electric Field Intencity:
+the amount of electric force per charge
+
+Gauss Law:
+
+Columnb Law
